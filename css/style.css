@@ -1,0 +1,18 @@
+.white-background{
+  background-color: white;
+  color: black;
+}
+.black-background{
+  background-color: black;
+  color: white;
+}
+#dark{
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+#light{
+  background-color: white;
+  color: black;
+  border-color: black;
+}

@@ -7,4 +7,9 @@ $(document).ready(function(){
       $("body").removeClass();
       $("body").addClass("white-background");
   });
+  $("h3").click(function(){
+    $(".first").addClass("borders");
+    $(".second").addClass("borders");
+  })
+
 });
